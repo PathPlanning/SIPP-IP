@@ -1,0 +1,4 @@
+start_cell: x= 0 y= 0 orientation= 0
+goal_cell: x= 0 y= 15
+reserved_interval_at_cell: x= 0 y= 5 from_timestep: 3 to_timestep: 5
+reserved_interval_at_cell: x= 0 y= 7 from_timestep: 7 to_timestep: 4000
